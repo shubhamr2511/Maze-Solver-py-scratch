@@ -1,7 +1,7 @@
 # Maze-Solver-py-scratch
 Q Learning based Maze solver and GUI maze editor using numpy and matplotlib only.
 
-- Easy implementation of Q learning.(Good for beginners)
+- Easy implementation of Q learning.
 - Seprate modules for training, maze and helper funtions.
 
 
